@@ -1,4 +1,4 @@
-# Pattern
+# Patterns
 
 Patterns are used to match code against definitions of expressions.
 Historically, expressions were only intended to be defined from
