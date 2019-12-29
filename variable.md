@@ -23,6 +23,9 @@ curly parens is much harder to read:
 ```
 set [list.[index]] to [some.[nested].[value]]
 set {list.{index}} to {some.{nested}.{value}}
+
+# original skript syntax
+set {list::%{index}%} to {some::%{nested}%::%{value}%}}
 ```
 
 ---
