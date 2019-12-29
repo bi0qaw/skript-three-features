@@ -18,7 +18,7 @@ The choice of `[]` to denote variables is two-fold. Firstly, variables are all a
 putting stuff in a box and giving it a name. Brackets look at lot more like boxes than
 curly parens. Furthermore it is an aesthetical choice. Brackets create a lot less noise
 in the code than braces. Just look at the following piece of code. The one with
-curly braces is much harder to read:
+curly parens is much harder to read:
 
 ```
 set [list.[index]] to [some.[nested].[value]]
