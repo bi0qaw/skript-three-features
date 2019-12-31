@@ -11,7 +11,7 @@
 7. list entries are separated by simple dots
 8. `[nested.[variables]]` are automatically evaluated
 9. `"[variables]"` in strings are automatically evaluated
-10. variables should behave like ordered dictionaries
+10. variables should behave like ordered dictionaries (in the sense that entries should be returned in the same order as they were added to the variable)
 11. `[(expressions)]` in variables have to be surrounded by parentheses
 
 The choice of `[]` to denote variables is two-fold. Firstly, variables are all about 
